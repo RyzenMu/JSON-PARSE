@@ -1,4 +1,4 @@
-// import file system module
+// import file system module.
 const fs = require('fs');
 //reading json file
 const users = require("./file22.json");
